@@ -419,9 +419,9 @@ Flight-Ticket-Booking/
 <p>For questions, feedback, or collaboration opportunities:</p>
 
 <ul>
-<li><b>Email:</b> [your-email@example.com]</li>
-<li><b>GitHub:</b> [Your GitHub Profile]</li>
-<li><b>LinkedIn:</b> [Your LinkedIn Profile]</li>
+<li><b>Email:</b> [dharwinsangamani@gmail.com]</li>
+<li><b>GitHub:</b> [@Dharwin77]<a href="https://github.com/Dharwin77"></a></li>
+<li><b>LinkedIn:</b> [Dharwin S]<a href="https://linkedin.com/in/dharwin-s"></a></li>
 </ul>
 
 ## Acknowledgments
@@ -442,3 +442,4 @@ Flight-Ticket-Booking/
   <br>
   <a href="#flight-ticket-booking-system">⬆ Back to Top</a>
 </div>
+
